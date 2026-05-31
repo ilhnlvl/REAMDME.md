@@ -41,10 +41,6 @@
       <td align="left"><a href="https://armadon.shop">https://CSMarketi.com.tr</a></td>
     </tr>
     <tr>
-      <td align="left">🌐 <strong>CSMarketi.com.tr</strong></td>
-      <td align="left"><a href="https://armadon.xyz">https://CSMarketi.com.tr</a></td>
-    </tr>
-    <tr>
       <td align="left">🌐 <strong>Discord Sunucum</strong></td>
       <td align="left"><a href="https://cs2sunuculari.com">https://discord.gg/EtfzxerhX2</a></td>
     </tr>
